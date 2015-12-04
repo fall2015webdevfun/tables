@@ -1,0 +1,13 @@
+table { border: 1px solid #5c743d;
+        width: 600px;
+		border-spacing: 0;
+        margin: auto; }
+td, th { padding: 5px;
+         font-family: Arial, sans-serif;  }
+caption { font-family: Verdana, sans-serif;
+           font-size: 1.2em;
+           font-weight: bold;
+		   padding-bottom: 5px;}
+tr:nth-of-type(even) { background-color:#eaeaea; }
+tr:first-of-type { background-color: #666;
+                   color: #eaeaea; }
